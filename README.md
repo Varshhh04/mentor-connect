@@ -10,7 +10,7 @@ Mentor-mentee matching
 🔧 Setup
 
 bash:
-git clone https://github.com/yourusername/mentor-connect.git  
+git clone https://github.com/varshhh04/mentor-connect.git  
 cd mentor-connect  
 npm install  # or yarn install  
 npm run dev  # or yarn dev  
